@@ -233,8 +233,8 @@ a:hover {
 }
 #head img.img-circle {
   display: block;
-  width: 450px;
-  height: 480px;
+  width: 430px;
+  height: auto;
   overflow: hidden;
   border: 9px solid rgba(0, 0, 0, 0.05);
   margin: 0 auto;
@@ -263,6 +263,7 @@ a:hover {
 }
 .home #head {
   padding: 90px 0;
+  margin-top: -90px;
 }
 .home #head .title {
   font-size: 49px;
